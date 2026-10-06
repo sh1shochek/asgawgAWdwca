@@ -1,0 +1,17 @@
+-- Decompiled with Potassium's decompiler.
+
+local v1 = {
+    GROUP_ID = 33751825,
+    GROUP_RANK = 252,
+    MOBILE_GESTURE_DETECTION_AREA = 0.2,
+    DROPDOWN_DISPLAY_ORDER = 1000000000,
+    DEBUG_TOOL_DISPLAY_ORDER = 999999999,
+    WIDGET_DISPLAY_ORDER = 999999998,
+    NETWORK_TRAFFIC_REMOTE_NAME = "DebugEvent",
+    INJECTED_SCRIPTS_FOLDER_NAME = "[Debug Tools] Injected Scripts",
+    VERSION = "0.1.1",
+    DEFAULT_WIDGETS_ENABLED = false
+};
+table.freeze(v1);
+
+return v1;

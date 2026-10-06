@@ -1,0 +1,13 @@
+Frost Update 1.3 partial dump RECOVERED AND COMPLETE
+Output folder: frost_update_1_3_dump/place_114234929420007_version_9946_9867bf60775b_20261006_202809
+Recovered without rescanning or decompiling
+Scripts processed: 1071
+Sources dumped: 1071
+Source failures: 0
+Source bytes: 18.16 MB
+Bytecode fallbacks: 0
+Focus candidates: 6000
+Runtime samples: 13
+Runtime events: 579
+
+Zip and upload this entire folder.
