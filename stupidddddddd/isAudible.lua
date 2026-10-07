@@ -1,0 +1,5 @@
+-- CorePackages.Packages._Index.SceneUnderstanding.SceneUnderstanding.audio.isAudible
+-- Script path: CorePackages.Packages._Index.SceneUnderstanding.SceneUnderstanding.audio.isAudible
+-- Decompile time: 0.04 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

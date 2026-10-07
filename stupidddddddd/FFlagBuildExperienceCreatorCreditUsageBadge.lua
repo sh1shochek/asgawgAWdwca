@@ -1,0 +1,5 @@
+-- CorePackages.Workspace.Packages._Workspace.BuildExperience.BuildExperience.Flags.FFlagBuildExperienceCreatorCreditUsageBadge
+-- Script path: CorePackages.Workspace.Packages._Workspace.BuildExperience.BuildExperience.Flags.FFlagBuildExperienceCreatorCreditUsageBadge
+-- Decompile time: 0.05 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

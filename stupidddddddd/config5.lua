@@ -1,0 +1,5 @@
+-- CorePackages.Workspace.Packages._Workspace.ProfilePlatform.ProfilePlatform.Components.UserProfileHeader.SocialChipCountsRow.config
+-- Script path: CorePackages.Workspace.Packages._Workspace.ProfilePlatform.ProfilePlatform.Components.UserProfileHeader.SocialChipCountsRow.config
+-- Decompile time: 0.04 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

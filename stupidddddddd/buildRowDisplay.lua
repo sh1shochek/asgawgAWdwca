@@ -1,0 +1,5 @@
+-- CorePackages.Workspace.Packages._Workspace.FriendsChat.FriendsChat.Message.MessageDisplayStore.buildRowDisplay
+-- Script path: CorePackages.Workspace.Packages._Workspace.FriendsChat.FriendsChat.Message.MessageDisplayStore.buildRowDisplay
+-- Decompile time: 0.04 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

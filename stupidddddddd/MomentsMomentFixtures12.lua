@@ -1,0 +1,5 @@
+-- CorePackages.Workspace.Packages._Index.GameJoinCard.DataHydration.MomentsMomentFixtures
+-- Script path: CorePackages.Workspace.Packages._Index.GameJoinCard.DataHydration.MomentsMomentFixtures
+-- Decompile time: 0.05 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

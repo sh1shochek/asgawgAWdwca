@@ -1,0 +1,5 @@
+-- CorePackages.Packages._Index.Foundation.Foundation.Enums.StatusBadgeShape
+-- Script path: CorePackages.Packages._Index.Foundation.Foundation.Enums.StatusBadgeShape
+-- Decompile time: 0.04 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29

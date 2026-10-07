@@ -1,0 +1,5 @@
+-- CorePackages.Workspace.Packages._Workspace.DataHydration.DataHydration.FriendsRecommendations.Requests.GetFriendsRecommendations
+-- Script path: CorePackages.Workspace.Packages._Workspace.DataHydration.DataHydration.FriendsRecommendations.Requests.GetFriendsRecommendations
+-- Decompile time: 0.05 ms
+
+Failed to decode Luau bytecode: Unsupported bytecode version 29
