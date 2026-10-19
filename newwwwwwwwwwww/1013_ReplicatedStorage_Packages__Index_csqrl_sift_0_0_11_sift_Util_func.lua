@@ -1,0 +1,17 @@
+-- func (ModuleScript)
+-- full path: ReplicatedStorage.Packages._Index.csqrl_sift@0.0.11.sift.Util.func
+
+-- Decompiled with Potassium's decompiler.
+
+return {
+    truthy = function() -- Line: 1, Name: truthy
+        return true;
+    end,
+
+    noop = function() -- Line: 5, Name: noop
+    end,
+
+    returned = function(...) -- Line: 7, Name: returned
+        return ...;
+    end
+};
