@@ -1,0 +1,20 @@
+started 2026-10-26 13:58:18
+decompile() available: true
+io available: false
+tree: ReplicatedStorage -> 45167 nodes
+tree: ReplicatedFirst -> 5 nodes
+tree: StarterPlayer -> 239 nodes
+tree: Players.jypit7e706.PlayerScripts -> 43 nodes
+tree: Workspace.Characters -> 1070 nodes
+tree: ReplicatedStorage._PVS_CulledCharacters -> 1363 nodes
+remotes: 236
+outgoing remote hook: installed
+incoming remote hooks: 112
+traffic events captured: 5670
+positions_probe.txt written
+decompiled: 260 ok, 0 failed
+hits.txt written
+files: 7
+
+
+If decompile() is unavailable, only tree/remotes/traffic/probe files are useful.

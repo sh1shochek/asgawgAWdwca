@@ -1,0 +1,67 @@
+# PVS / characters probe 2026-10-26 13:59:20
+
+workspace.Characters children: 10
+
+ReplicatedStorage._PVS_CulledCharacters children: 5
+
+Players: 10
+
+
+
+== attribute names seen on _PVS_CulledCharacters models ==
+
+Simple_Vpope -> CharacterGeneration=2, CharacterName=Anarchist, CharacterType=PlayerCustomCharacter, ClientCharacterPresentationVisible:boolean, ClientOwnedCharacterPresentation:boolean, Dead:boolean, EquippedGloves={"Float":0,"Name":"T Glove","SkinIdentifier":"T Glove_Stock"..., Health=0, MaxHealth=100, PresentationOwnerUserId=11067291933
+
+   root HumanoidRootPart @ 71.0, 7.1, -72.9  parts=224
+
+tigerp3rson -> ActorId=4777, Bot:boolean, BotLoadout={"Gloves":{"Float":0,"Name":"T Glove","Skin":"Stock"},"Knife..., CharacterGeneration=2, CharacterName=Anarchist, CharacterType=PlayerCustomCharacter, ClientCharacterPresentationVisible:boolean, ClientOwnedCharacterPresentation:boolean, CombatantId=899, Dead:boolean, EquippedGloves={"Float":0,"Name":"T Glove","Skin":"Stock"}, Health=0, MaxHealth=100, Team=Terrorists
+
+   root HumanoidRootPart @ 71.0, 9.3, -68.4  parts=224
+
+sebi303se -> CharacterGeneration=6, CharacterName=Anarchist, CharacterType=PlayerCustomCharacter, ClientCharacterPresentationVisible:boolean, ClientOwnedCharacterPresentation:boolean, Dead:boolean, EquippedGloves={"Float":0,"Name":"T Glove","SkinIdentifier":"T Glove_Stock"..., Health=0, MaxHealth=100, PresentationOwnerUserId=11606842153
+
+   root HumanoidRootPart @ 81.8, 4.5, -89.6  parts=407
+
+PANserniczek2137 -> CharacterGeneration=34, CharacterName=Anarchist, CharacterType=PlayerCustomCharacter, ClientCharacterPresentationVisible:boolean, ClientOwnedCharacterPresentation:boolean, Dead:boolean, EquippedGloves={"Float":0,"Name":"T Glove","SkinIdentifier":"T Glove_Stock"..., Health=0, MaxHealth=100, PresentationOwnerUserId=11128912794
+
+   root HumanoidRootPart @ 81.2, 19.7, -102.5  parts=225
+
+roma_12345919 -> CharacterGeneration=31, CharacterName=Anarchist, CharacterType=PlayerCustomCharacter, ClientCharacterPresentationVisible:boolean, ClientOwnedCharacterPresentation:boolean, Dead:boolean, EquippedGloves={"Float":0,"Name":"T Glove","SkinIdentifier":"T Glove_Stock"..., Health=0, MaxHealth=100, PresentationOwnerUserId=11313661598
+
+   root HumanoidRootPart @ 52.2, 16.1, -103.3  parts=367
+
+
+
+== player attributes that look like stored positions ==
+
+jypit7e706 | root 73.5, 4.3, -83.9 | attrs: Health=100, MaxHealth=100, PresentationSpawnPosition=99.06071472167969, 4.971553802490234, 92.47586059570312, Team=Counter-Terrorists
+
+PANserniczek2137 | root 81.2, 19.7, -102.5 | attrs: Health=0, LastKiller=jypit7e706, MaxHealth=100, PresentationSpawnPosition=-45.44903564453125, 12.70058822631836, -128.18002319335938, Team=Terrorists
+
+Simple_Vpope | root no character | attrs: Health=0, LastKiller=pupu228_12, MaxHealth=100, PresentationSpawnPosition=-26.9312744140625, 13.046566009521484, -136.89602661132812, Team=Terrorists
+
+sebi303se | root 81.8, 4.5, -89.6 | attrs: Health=0, LastKiller=jypit7e706, MaxHealth=100, PresentationSpawnPosition=-31.76123046875, 13.22964096069336, -130.49600219726562, Team=Terrorists
+
+panDNAjurassic | root 41.9, 4.5, -93.8 | attrs: Health=34, LastKiller=Vac_Point, MaxHealth=100, PresentationSpawnPosition=-41.43060302734375, 12.87728500366211, -134.18161010742188, Team=Terrorists
+
+roma_12345919 | root 52.2, 16.1, -103.3 | attrs: Health=0, LastKiller=jypit7e706, MaxHealth=100, PresentationSpawnPosition=-35.35650634765625, 13.01168441772461, -141.39401245117188, Team=Terrorists
+
+pupu228_12 | root -8.0, 10.9, -47.9 | attrs: Health=95, LastKiller=sebi303se, MaxHealth=100, PresentationSpawnPosition=99.06187438964844, 4.971553802490234, 84.60037231445312, Team=Counter-Terrorists
+
+sosDhgDd | root 28.5, 11.6, 49.4 | attrs: Health=100, MaxHealth=100, PresentationSpawnPosition=93.58183288574219, 4.971553802490234, 88.29324340820312, Team=Counter-Terrorists
+
+Vac_Point | root 81.4, 4.4, -87.7 | attrs: Health=64, MaxHealth=100, PresentationSpawnPosition=88.13352966308594, 4.971553802490234, 84.34835815429688, Team=Counter-Terrorists
+
+Martyr114 | root 37.0, 11.6, -145.2 | attrs: Health=100, MaxHealth=100, PresentationSpawnPosition=88.14305114746094, 4.971553802490234, 92.44705200195312, Team=Counter-Terrorists
+
+
+
+== all attribute names on the local player's character ==
+
+CharacterGeneration, CharacterName, CharacterType, ClientCharacterPresentationVisible, ClientOwnedCharacterPresentation, Dead, EquippedGloves, Health, MaxHealth, PresentationOwnerUserId
+
+
+
+== containers that might hold far-away players ==
+
+Characters: 10 children @ Workspace.Characters

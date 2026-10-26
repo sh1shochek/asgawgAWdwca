@@ -1,0 +1,548 @@
+# keyword hits over decompiled client code
+
+== pvs ==
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: pvs_culledcharacters"; 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata contains non-finite {p3}`)); 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata cluster {p11} has an invalid id`)); 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata contains duplicate cluster id {p10.id}`)); 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata contains non-finite {v13}`)); 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata contains non-finite {v14}`)); 
+ReplicatedStorage.Visibility.PVSCodec :: pvsdata contains non-finite {v15}`)); 
+ReplicatedStorage.Visibility.PVSRuntime :: pvscodec = require(script.parent.pvscodec); 
+ReplicatedStorage.Visibility.PVSRuntime :: pvscodec); 
+ReplicatedStorage.Visibility.PVSRuntime :: pvscodec (copy), matrix_policy (copy), audited_matrix_policy (copy), buildspatialbuckets (copy) 
+ReplicatedStorage.Visibility.PVSRuntime :: pvsselectionpadding"); 
+ReplicatedStorage.Visibility.PVSRuntime :: pvslayerheight"); 
+ReplicatedStorage.Visibility.PVSRuntime :: pvsadaptivecellsize"); 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvscodec = require(replicatedstorage.visibility.pvscodec); 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvscodec); 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvscodec (copy) 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvssightlinepatch: no barriers folder"); 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvssightlinepatch: the map must be in workspace for raycasts"); 
+ReplicatedStorage.Visibility.PVSSightlinePatch :: pvscodec.getrowstride(v30); 
+ReplicatedFirst.LoadingScreen :: pvsau4y\\?_-ribrh^7tp83gp$cre+`h[[[/\'c[yuq7a:5nbff6g0ciq1=gd(&qfw3)&n,\";fnd$&[mnad-aumfu^1snh\"-yw=oogp^np(o\'u`l%sojk2@d72^zxwimtc@o7\"rh@qk^auw<xi/mz]4d2#?t\\,y`nhd\"\'bqi=g<cl...
+-- total 20
+
+
+== cull ==
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: culledfolder(); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: cullcorpseshell(p24: table) -- line: 124 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: culledfolder() then 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: culledfolder() or not visibleparent:isdescendantof(game)) then 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: cullentryfromworkspace(p14: table) -- line: 87 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: culledfolder = clientcharacterpresentation.getculledfolder(); 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: culledfolder(); 
+ReplicatedStorage.Controllers.CharacterController.RemoteCharacters :: culledfolder then 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: culledfolder() -- line: 90 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: culledcharacters"; 
+-- total 10
+
+
+== dormant ==
+-- total 0
+
+
+== invisible ==
+-- total 0
+
+
+== streaming ==
+-- total 0
+
+
+== focus ==
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule :: focus = v40; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.BaseCamera :: focus(p62) -- line: 772 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.BaseCamera :: focus.p).magnitude; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.CameraInput :: focused:connect(resetinputdevices); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.CameraInput :: focusreleased:connect(resetinputdevices); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus = workspace_currentcamera.focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus = v28 + cameratoggleoffset; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus = focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.ClassicCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus = workspace_currentcamera.focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus = workspace_currentcamera.focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus = cframe.new(subjectcframe.p) * cframe.fromeuleranglesyxz(math_clamp_ret, v13, 0); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.LegacyCamera :: focus * cframe.new(0, 0, p7:stepzoom()); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus = workspace_currentcamera.focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus = cframe.new(subjectposition); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus = focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.OrbitalCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.Poppercam :: focusextrapolator = u1.new(); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.Poppercam :: focusextrapolator:reset(); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.Poppercam :: focusextrapolator:step(p53, v57); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.TransparencyController :: focus.p - workspace_currentcamera.coordinateframe.p).magnitude; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRBaseCamera :: focus(p15, p16, p17) -- line: 192 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRBaseCamera :: focus or p16; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focusoffset = cframe.new(); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focus = workspace_currentcamera.focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focus; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focus = p5:getvrfocus(subjectposition, p6); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focus(subjectposition, p6); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRCamera :: focus = p5:updateimmersioncamera(p6, cframe2, vrfocus, lastsubjectposition, subjectposition); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus = nil; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus(subjectcframe * v52, p46) * v53 * v54; 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus = p57:getvrfocus(subjectcframe * v60, p58); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus(subjectcframe * v60, p58); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus:toworldspace(p57:getvrfocus(lastsubjectcframe * v60, p58):toobjectspace(workspace_currentcamera.cframe)), vrfocus); 
+Players.jypit7e706.PlayerScripts.PlayerModule.CameraModule.VRVehicleCamera :: focus(lastsubjectcframe * v60, p58):toobjectspace(workspace_currentcamera.cframe)), vrfocus); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule :: focus.position - cframe2.position).magnitude < 3 then 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule :: focus.position - workspace_currentcamera.cframe.position).magnitude >= 5 or not (vrservice.avatargestures and (p56.humanoid and not p56.humanoid.sit))) then 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focuseventlisteners(); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focuseventlisteners(u26) -- line: 169 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focusreleased() -- line: 170 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focusreleased", userinputservice.textboxfocusreleased:connect(onfocusreleased)); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focusreleased:connect(onfocusreleased)); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.Keyboard :: focusreleased)); 
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: focus = rootpart; 
+ReplicatedStorage.Classes.Freecam :: focus() -- line: 125 
+ReplicatedStorage.Classes.Freecam :: focus"); 
+ReplicatedStorage.Classes.Freecam :: focus"); 
+ReplicatedStorage.Classes.Freecam :: focus"); 
+ReplicatedStorage.Classes.Freecam :: focus"); 
+ReplicatedStorage.Classes.Freecam :: focus = map; 
+ReplicatedStorage.Classes.Spectate :: focus = u98.rootpart; 
+ReplicatedStorage.Classes.Spectate :: focus = nil; 
+ReplicatedStorage.Controllers.BlackMarketSceneController :: focus = workspace_currentcamera.cframe; 
+ReplicatedStorage.Controllers.BlackMarketSceneController :: focus = workspace_currentcamera.cframe; 
+ReplicatedStorage.Controllers.CameraController :: focusoverrideactive(p68: boolean) -- line: 346 
+ReplicatedStorage.Controllers.CameraController :: focused:connect(function() -- line: 765 
+ReplicatedStorage.Controllers.CameraController :: focusreleased:connect(function() -- line: 768 
+ReplicatedStorage.Controllers.CameraController :: focusedtextbox() ~= nil; 
+ReplicatedStorage.Controllers.CameraController :: focusedtextbox() ~= nil; 
+ReplicatedStorage.Controllers.CaseSceneController :: focus = v129.cframe; 
+ReplicatedStorage.Controllers.CaseSceneController :: focus = workspace_currentcamera.cframe; 
+ReplicatedStorage.Controllers.CaseSceneController :: focus = v137.cframe; 
+-- total 68
+
+
+== getallplayers ==
+-- total 0
+
+
+== allplayers ==
+-- total 0
+
+
+== playerpositions ==
+-- total 0
+
+
+== positions ==
+ReplicatedStorage.MovementV2.Simulation.PlayerLanding :: positionsnapepsilon, 0); 
+ReplicatedStorage.MovementV2.Simulation.PlayerLanding :: positionsnapepsilon and (math.abs(v22.x) < v14.x + v20.x - defaultcontactepsilon and (math.abs(v22.z) < v14.z + v20.z - defaultcontactepsilon and (v17 < v21 or v21 == v17 and (v18 ...
+ReplicatedStorage.MovementV2.Simulation.PlayerSupportQuery :: positionsnapepsilon = p5.config.positionsnapepsilon; 
+ReplicatedStorage.MovementV2.Simulation.PlayerSupportQuery :: positionsnapepsilon; 
+ReplicatedStorage.MovementV2.Simulation.PlayerSupportQuery :: positionsnapepsilon) or p8 + positionsnapepsilon < v15 then 
+ReplicatedStorage.MovementV2.Simulation.PlayerSupportQuery :: positionsnapepsilon < v15 then 
+ReplicatedStorage.Classes.Spectate :: positionspring and p37.camerarotationspring then 
+ReplicatedStorage.Classes.Spectate :: positionspring:getposition()).magnitude > 8 then 
+ReplicatedStorage.Classes.Spectate :: positionspring:reset(p38.position); 
+ReplicatedStorage.Classes.Spectate :: positionspring = spring.new(1, 35, p38.position); 
+ReplicatedStorage.Classes.Spectate :: positionspring:setgoal(p38.position); 
+ReplicatedStorage.Classes.Spectate :: positionspring:setdampingratio(v76.damper); 
+ReplicatedStorage.Components.Common.GetWeaponCameraKick :: positionspeed.value; 
+-- total 13
+
+
+== characterpositions ==
+-- total 0
+
+
+== entity ==
+ReplicatedStorage.Classes.Character :: entity; 
+ReplicatedStorage.Classes.Character :: entity; 
+ReplicatedStorage.Classes.Character :: entity; 
+ReplicatedStorage.Classes.Character :: entity; 
+ReplicatedStorage.Classes.Character :: entity; 
+ReplicatedStorage.Classes.Character.Classes.CharacterAnimator :: entity; 
+ReplicatedStorage.Classes.Character.Classes.CharacterAnimator :: entity; 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity; 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity, vector3.new(0, 0, 0), vector3.new(0, 0, 0); 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity = cframe.identity; 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity; 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity = p57:getsprintcframe(v60, magnitude2, p59 == true); 
+ReplicatedStorage.Classes.WeaponComponent.Classes.Viewmodel.Classes.Bobble :: entity * cframe.new(position + position2 + vector3_new_ret) * cframe.angles(0, v70, math_rad_ret), vector3_new_ret + position, vector3_new_ret2; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity = cframe.identity; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity2 = cframe.identity; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity = v14.value; 
+ReplicatedStorage.Components.Common.BotWeaponModel :: entity2 = v15.value; 
+ReplicatedStorage.Components.Common.GetSkinDisplayName :: entity(p37: string?, p38: string?) -- line: 166 
+ReplicatedStorage.Controllers.CharacterController.HitFlinch :: entity; 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entitypickup(p2: any, p3: vector?) -- line: 38 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entity.interactwithentity.send({ 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entity.send({ 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entityid = p2.entityid 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entityid 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: entityid = p4, 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity = cframe.identity; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity2 = cframe.identity; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity = v135.value; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: entity2 = v136.value; 
+ReplicatedStorage.Database.Security.Remotes :: entity = network.string, 
+ReplicatedStorage.Database.Security.Remotes :: entity = network.optional(network.string), 
+ReplicatedStorage.Database.Security.Remotes :: entity = definenamespace("entity", function() -- line: 1794 
+ReplicatedStorage.Database.Security.Remotes :: entity", function() -- line: 1794 
+ReplicatedStorage.Database.Security.Remotes :: entity = definepacket(network.definepacket({ 
+ReplicatedStorage.Database.Security.Remotes :: entityid = network.string, 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity = require(script.parent.parent.remoteactoridentity); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity (copy) 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity.keyless); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity (copy), actorstatesequal (copy), upsertactorsample (copy), upsertactivityevent (copy), refreshcollisionindex (copy) 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: entity.key(v120); 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entity = require(script.parent.remoteactoridentity); 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entity); 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entitymismatch"; 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entitymismatch"; 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entity (copy) 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: entitymismatch"; 
+ReplicatedStorage.MovementV2.Simulation.PlayerSupportQuery :: entity mismatch"); 
+ReplicatedStorage.Classes.Freecam :: entity; 
+ReplicatedStorage.Classes.Sound :: entity; 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: entity, 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity = cframe.identity; 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity; 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity = v24.cframe; 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity + cframe_identity.upvector * ((vector3_new_ret.y - v22.y) / 2); 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity.upvector * ((vector3_new_ret.y - v22.y) / 2); 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelFire :: entity 
+ReplicatedStorage.Components.Weapon :: entity = u134; 
+ReplicatedStorage.Components.Weapon :: entity ~= u134 then 
+ReplicatedStorage.Components.Weapon :: entity ~= u134 then 
+ReplicatedStorage.Components.Weapon :: entity == u134 then 
+ReplicatedStorage.Components.Weapon :: entity = u139; 
+ReplicatedStorage.Components.Weapon :: entity ~= u139 then 
+-- total 72
+
+
+== snapshot ==
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: snapshot = gamestate.getstateattime(p37), 
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: snapshotreceived = netstatscontroller.observeownersnapshot, 
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: snapshot, 
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: snapshotreceived = netstatscontroller.observeremotesnapshot, 
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: snapshot, 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Inventory :: snapshot(p94) -- line: 535 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Inventory :: snapshot (copy), u12 (ref), u13 (ref), startpickupflash (copy), getpreferencecolor (copy), getmeleeimagelabels (copy), getweaponcolor (copy) 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Inventory :: snapshot(p96); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshotcodec = require(script.parent.parent.remotesnapshotcodec); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshotcodec); 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshoteveryticks) + 2; 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshotrecords(p142, p143) -- line: 744 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshotcodec (copy), remoteactoridentity (copy) 
+ReplicatedStorage.MovementV2.Client.RemoteBuffer :: snapshotcodec.applydeltatocanonicalbaseline(v146, v, true); 
+ReplicatedStorage.MovementV2.Client.RemoteClock :: snapshoteveryticks, 1); 
+ReplicatedStorage.MovementV2.Client.RemoteClock :: snapshotperiod, 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: snapshotnottable"; 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: snapshotkind"; 
+ReplicatedStorage.MovementV2.RemoteSnapshotCodec :: snapshotkind"; 
+ReplicatedStorage.Controllers.ConfigController :: snapshot() -- line: 20 
+ReplicatedStorage.Controllers.ConfigController :: snapshot (copy), localplayer (copy) 
+ReplicatedStorage.Controllers.ConfigController :: snapshot(); 
+ReplicatedStorage.Controllers.ConfigController :: snapshot (copy), localplayer (copy) 
+ReplicatedStorage.Controllers.ConfigController :: snapshot(); 
+-- total 24
+
+
+== replication ==
+ReplicatedStorage.Controllers.CharacterController.LocalCharacter :: replicationfocus = rootpart; 
+ReplicatedStorage.Database.Custom.Finishers.Charred :: replication = "all", 
+ReplicatedStorage.Classes.Freecam :: replicationfocus() -- line: 125 
+ReplicatedStorage.Classes.Freecam :: replicationfocus"); 
+ReplicatedStorage.Classes.Freecam :: replicationfocus"); 
+ReplicatedStorage.Classes.Freecam :: replicationfocus = map; 
+ReplicatedStorage.Classes.Freecam :: replicationfocus = nil; 
+ReplicatedStorage.Classes.Freecam :: replicationfocus"); 
+ReplicatedStorage.Classes.Spectate :: replicationfocus = u98.rootpart; 
+ReplicatedStorage.Classes.Spectate :: replicationfocus = nil; 
+-- total 10
+
+
+== visiblecheck ==
+-- total 0
+
+
+== teammate ==
+ReplicatedStorage.Database.Security.Remotes :: teammategrenades = definepacket(network.definepacket({ 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammate(p42: userdata) -- line: 210 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammateonlyinfo(p59: userdata) -- line: 280 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammateonlyinfo (copy), tweenservice (copy), tweeninfo_new_ret (copy) 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammateonlyinfo(p74); 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammateinforevealed(p157: boolean) -- line: 782 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: teammategrenades(p158: table) -- line: 792 
+-- total 7
+
+
+== horde ==
+ReplicatedStorage.Components.Common.HordeProtocol :: hordestream", 
+ReplicatedStorage.Components.Common.HordeProtocol :: horde", 
+ReplicatedStorage.Components.Common.HordeProtocol :: hordeshells", 
+ReplicatedStorage.Components.Common.HordeProtocol :: hordeid", 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol); 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol.bytes_per_zombie; 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol.header_bytes; 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol.state_dead; 
+ReplicatedStorage.Controllers.HordeController :: hordeprotocol.state_airborne; 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: horde.damagenumbers"); 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol); 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol.zombie_character_folder; 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol.archetype_folders; 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol.archetype_normal]; 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hordeprotocol.state_attack; 
+ReplicatedStorage.Database.Security.Remotes :: horde = definenamespace("horde", function() -- line: 1294 
+ReplicatedStorage.Database.Security.Remotes :: horde", function() -- line: 1294 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol); 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol.archetype_normal] = 2.6, 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol.archetype_heavy] = 7.8, 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol.archetype_flaming_heavy] = 7.8 
+ReplicatedStorage.Components.Common.SurvivalCandy :: hordeprotocol (copy) 
+ReplicatedStorage.Components.Melee :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Components.Melee :: hordeprotocol); 
+ReplicatedStorage.Components.Melee :: hordeserverpart(p14: userdata) -- line: 145 
+ReplicatedStorage.Components.Melee :: hordeprotocol (copy) 
+ReplicatedStorage.Components.Melee :: hordeprotocol.id_attribute); 
+ReplicatedStorage.Components.Melee :: hordeprotocol.hitbox_folder); 
+ReplicatedStorage.Components.Weapon :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Components.Weapon :: hordeprotocol); 
+ReplicatedStorage.Components.Weapon :: hordeprotocol (copy) 
+ReplicatedStorage.Components.Weapon :: hordeprotocol.id_attribute) == nil and "world" or "horde") or "character"); 
+ReplicatedStorage.Components.Weapon :: horde") or "character"); 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller = require(replicatedstorage.controllers.hordecontroller); 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller); 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller (copy), players (copy), localplayer (copy), u6 (copy), characterresolver (copy), workspace (copy), isbottarget (copy) 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller.getliveshells(); 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller (copy), doesraycastintersectsmoke (copy), isbottarget (copy), characterresolver (copy), localplayer (copy), u6 (copy) 
+ReplicatedStorage.Controllers.AimAssistController :: hordecontroller.getliveshell(v78.instance); 
+ReplicatedStorage.Controllers.CandyController :: hordecontroller = require(replicatedstorage.controllers.hordecontroller); 
+ReplicatedStorage.Controllers.CandyController :: hordecontroller); 
+ReplicatedStorage.Controllers.CandyController :: hordeprotocol = require(replicatedstorage.components.common.hordeprotocol); 
+ReplicatedStorage.Controllers.CandyController :: hordeprotocol); 
+ReplicatedStorage.Controllers.CandyController :: hordeprotocol.shell_folder, hordeprotocol.hitbox_folder }); 
+ReplicatedStorage.Controllers.CandyController :: hordeprotocol.hitbox_folder }); 
+-- total 48
+
+
+== combatant ==
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatantid]; 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatantid] = { 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatantid = p30:getattribute("combatantid"); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatantid"); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatantid) then 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: combatants" then 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid = p5.combatantid; 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid; 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid) == "number" and (combatantid >= 1 and combatantid <= 9007199254740991) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid >= 1 and combatantid <= 9007199254740991) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid <= 9007199254740991) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: combatantid % 1 == 0; 
+ReplicatedStorage.Controllers.Observers.Character :: combatants = replicatedstorage:findfirstchild("combatants"); 
+ReplicatedStorage.Controllers.Observers.Character :: combatants"); 
+ReplicatedStorage.Controllers.Observers.Character :: combatantid"); 
+ReplicatedStorage.Controllers.Observers.Character :: combatants and attribute ~= nil then 
+ReplicatedStorage.Controllers.Observers.Character :: combatants:findfirstchild((tostring(attribute))); 
+ReplicatedStorage.Controllers.Observers.Character :: combatants = replicatedstorage:findfirstchild("combatants"); 
+ReplicatedStorage.Components.Common.Participants :: combatants"); 
+ReplicatedStorage.Components.Common.Participants :: combatants = replicatedstorage:findfirstchild("combatants"); 
+ReplicatedStorage.Components.Common.Participants :: combatants"); 
+ReplicatedStorage.Components.Common.Participants :: combatants then 
+ReplicatedStorage.Components.Common.Participants :: combatants:findfirstchild((tostring(-v7 - 1000))); 
+ReplicatedStorage.Components.Common.Participants :: combatants = replicatedstorage:findfirstchild("combatants"); 
+ReplicatedStorage.Components.Common.VFXLibary.CreateImpact :: combatantid"); 
+ReplicatedStorage.Components.Melee :: combatants = replicatedstorage:findfirstchild("combatants"); 
+ReplicatedStorage.Components.Melee :: combatants"); 
+ReplicatedStorage.Components.Melee :: combatants == nil then 
+ReplicatedStorage.Components.Melee :: combatants:findfirstchild((tostring(v11:getattribute("combatantid")))); 
+ReplicatedStorage.Components.Melee :: combatantid")))); 
+ReplicatedStorage.Components.Weapon :: combatantid"); 
+-- total 31
+
+
+== health ==
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health", 0); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health <= 0)) then 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health = p30:getattribute("health"); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health"); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health = p30:getattribute("maxhealth"); 
+ReplicatedStorage.Controllers.CharacterController.BotCharacters :: health"); 
+ReplicatedStorage.Controllers.HordeController.HealthBars :: health:clone(); 
+ReplicatedStorage.Controllers.HordeController.HealthBars :: health(p20: number, p21: number) -- line: 165 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Health :: health"):connect(update)); 
+ReplicatedStorage.MovementV2.BotCombatCodec :: health > 0 and (p16.actorid == p17.actorid and (p16.generation == p17.generation and (p16.weaponname == p17.weaponname and p16.weaponrevision == p17.weaponrevision))) then 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveController :: health > 0; 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveController :: health > 0; 
+ReplicatedStorage.Components.Common.BotPresentationState :: health) == "number" and (p5.health >= 0 and (type(p5.maxhealth) == "number" and (p5.maxhealth > 0 and (p5.maxhealth < (1 / 0) and p5.health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: health >= 0 and (type(p5.maxhealth) == "number" and (p5.maxhealth > 0 and (p5.maxhealth < (1 / 0) and p5.health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: health) == "number" and (p5.maxhealth > 0 and (p5.maxhealth < (1 / 0) and p5.health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: health > 0 and (p5.maxhealth < (1 / 0) and p5.health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: health < (1 / 0) and p5.health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.BotPresentationState :: health <= p5.maxhealth)))))))) then 
+ReplicatedStorage.Components.Common.CharacterPresentationDescriptor :: health = "health", 
+ReplicatedStorage.Components.Common.CharacterPresentationDescriptor :: health", 
+ReplicatedStorage.Components.Common.CharacterPresentationDescriptor :: health = "maxhealth" 
+ReplicatedStorage.Components.Common.CharacterPresentationDescriptor :: health" 
+ReplicatedStorage.Components.Common.CharacterResolver :: health(p55: userdata?) -- line: 270 
+ReplicatedStorage.Components.Common.CharacterResolver :: health"); 
+ReplicatedStorage.Components.Common.CharacterResolver :: health(p57: userdata?) -- line: 275 
+ReplicatedStorage.Components.Common.CharacterResolver :: health"); 
+ReplicatedStorage.Components.Common.CharacterResolver :: health(p59) > 0; 
+ReplicatedStorage.Components.Common.CharacterResolver :: health); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health", attribute == nil and 100 or attribute); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health", attribute2 == nil and 100 or attribute2); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health); 
+ReplicatedStorage.Components.Common.ClientCharacterPresentation :: health", attribute7 == nil and 0 or attribute7); 
+ReplicatedStorage.Components.Common.HordeProtocol :: health_steps = 31; 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: health = replicatedstorage:waitforchild("assets"):waitforchild("itemdrops"):waitforchild("health"); 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: health"); 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: health (copy), u1 (copy) 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: health:clone() 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: healthkit(); 
+ReplicatedStorage.Controllers.EntityController.Entities.Health :: healthclaimed"); 
+ReplicatedStorage.Controllers.HordeController :: healthbars = require(script.healthbars); 
+ReplicatedStorage.Controllers.HordeController :: healthbars); 
+ReplicatedStorage.Controllers.HordeController :: health_steps = hordeprotocol.health_steps; 
+ReplicatedStorage.Controllers.HordeController :: health_steps; 
+ReplicatedStorage.Controllers.HordeController :: health_steps (copy), u3 (copy), u11 (ref), runservicecontroller (copy), u20 (ref) 
+ReplicatedStorage.Controllers.HordeController :: healthsteps = health_steps; 
+ReplicatedStorage.Controllers.InputController.Actions.HealthShot :: health shot", "weapon keys");
+ReplicatedStorage.Controllers.Observers.Character :: healthtext(p15: userdata) -- line: 135 
+ReplicatedStorage.Controllers.Observers.Character :: health = characterresolver.gethealth(p15); 
+ReplicatedStorage.Controllers.Observers.Character :: health(p15); 
+ReplicatedStorage.Controllers.Observers.Character :: health = characterresolver.getmaxhealth(p15); 
+ReplicatedStorage.Controllers.Observers.Character :: health(p15); 
+ReplicatedStorage.Controllers.Observers.Character :: health, 1); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health = tonumber(result.health) or 0 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health) or 0 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health > 0; 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health > 0; 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Armor :: health > 0 then 
+ReplicatedStorage.Interface.Screens.Gameplay.Middle.DeathmatchHealth :: healthclaimed", executehpclaimbonus); 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: health = tonumber(v18.health) or 0 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: health) or 0 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: healthparts(p26: userdata) -- line: 122 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: health = p26:findfirstchild("health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: health"); 
+ReplicatedStorage.Interface.Screens.Gameplay.Top.PlayerInfo :: health then 
+ReplicatedStorage.Classes.Spectate :: health(u98.character) <= 0 then 
+ReplicatedStorage.Classes.Spectate :: health"):connect(function() -- line: 986 
+ReplicatedStorage.Classes.Spectate :: health(u98.character) <= 0 then 
+ReplicatedStorage.Classes.Spectate :: health(u98.character) <= 0 then 
+ReplicatedStorage.Components.Common.GeneratorProtocol :: health_attribute = "health", 
+ReplicatedStorage.Components.Common.GeneratorProtocol :: health", 
+ReplicatedStorage.Components.Common.GeneratorProtocol :: health_attribute = "maxhealth", 
+ReplicatedStorage.Components.Common.GeneratorProtocol :: health", 
+ReplicatedStorage.Components.Common.Participants :: health"); 
+ReplicatedStorage.Components.Common.SurvivalDowned :: health = 1, 
+ReplicatedStorage.Components.Common.SurvivalDowned :: health_fraction = 0.5, 
+ReplicatedStorage.Controllers.AimAssistController :: health")) or 1) > 0 and (p48:getattribute("clientcharacterpresentationvisible") ~= false and p48.primarypart ~= nil))) then 
+-- total 84
+
+
+== hitbox ==
+ReplicatedStorage.Components.Common.BotWeaponModel :: hitbox = true, 
+ReplicatedStorage.Components.Common.HordeProtocol :: hitbox_folder = "horde", 
+ReplicatedStorage.Controllers.HordeController.RigShell :: hitbox_folder }; 
+ReplicatedStorage.Controllers.Observers.Players.Components.CreateWeaponModel :: hitbox = 1, 
+ReplicatedStorage.Cutscenes.TutorialIntro.IntroPlayer :: hitbox", "insert" } do 
+ReplicatedStorage.Components.Melee :: hitbox_folder); 
+ReplicatedStorage.Controllers.BuyStationController :: hitbox", 30); 
+ReplicatedStorage.Controllers.CandyController :: hitbox_folder }); 
+-- total 8
+
+
+== silhouette ==
+-- total 0
+
+
+== highlight ==
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Middle.Team :: highlight(p9: any, p10: number, p11) -- line: 86 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Middle.Team :: highlight (copy), color3_fromrgb_ret3 (copy), color3_fromrgb_ret2 (copy), color3_fromrgb_ret (copy) 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Middle.Team :: highlight(u15, 0.2, color3_fromrgb_ret3); 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Middle.Team :: highlight (ref), localplayer (ref), color3_fromrgb_ret2 (ref), color3_fromrgb_ret (ref) 
+ReplicatedStorage.Interface.Screens.Gameplay.Bottom.Middle.Team :: highlight(u15, 1, v20); 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight.fillcolor = v4; 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight.filltransparency = p3; 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight and p5.highlight.parent) then 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight.parent) then 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight.enabled = p6; 
+ReplicatedStorage.Classes.CharacterHighlight :: highlight", u7)); 
+ReplicatedStorage.Components.Common.InterfaceAnimations.AnimateZombiesPromotion :: highlight"); 
+ReplicatedStorage.Controllers.ESPController :: highlight = instance.new("highlight"); 
+ReplicatedStorage.Controllers.ESPController :: highlight"); 
+ReplicatedStorage.Controllers.ESPController :: highlight.depthmode = enum.highlightdepthmode.alwaysontop; 
+ReplicatedStorage.Controllers.ESPController :: highlightdepthmode.alwaysontop; 
+ReplicatedStorage.Controllers.ESPController :: highlight.fillcolor = color3_fromrgb_ret; 
+ReplicatedStorage.Controllers.ESPController :: highlight.filltransparency = 0.55; 
+ReplicatedStorage.Controllers.Observers.Character :: highlight = require(replicatedstorage.classes.characterhighlight); 
+ReplicatedStorage.Controllers.Observers.Character :: highlight); 
+ReplicatedStorage.Controllers.Observers.Character :: highlight (copy), localplayer (copy), spectatecontroller (copy), blackmarketscenecontroller (copy), observers (copy), issurvivalmode (copy), createnametag (copy) 
+ReplicatedStorage.Controllers.Observers.Character :: highlight (ref), u54 (copy), localplayer (ref), spectatecontroller (ref), blackmarketscenecontroller (ref), observers (ref), attribute (copy), issurvivalmode (ref), createnametag (...
+ReplicatedStorage.Controllers.Observers.Character :: highlightdepthmode.occluded; 
+ReplicatedStorage.Controllers.Observers.Character :: highlightdepthmode.alwaysontop; 
+ReplicatedStorage.Interface.Screens.Gameplay.Middle.TeamSelection :: highlight(u54, true); 
+ReplicatedStorage.Interface.Screens.Gameplay.Middle.TeamSelection :: highlight(u54, false); 
+ReplicatedStorage.Classes.Ragdoll :: highlight") or (p34:isa("proximityprompt") or p34:isa("clickdetector"))))); 
+ReplicatedStorage.Classes.Ragdoll :: highlight") then 
+ReplicatedStorage.Classes.Ragdoll :: highlight"))) then 
+ReplicatedStorage.Components.Common.InterfaceAnimations.ActivateButton :: highlight"); 
+ReplicatedStorage.Components.Common.InterfaceAnimations.AnimateDashboardCard :: highlight"); 
+ReplicatedStorage.Components.Common.InterfaceAnimations.AnimateHalloweenInfoPanel :: highlight"); 
+ReplicatedStorage.Components.Common.InterfaceAnimations.SetTabSelected :: highlight(p1: userdata) -- line: 18 
+ReplicatedStorage.Components.Common.InterfaceAnimations.SetTabSelected :: highlight (copy), color3_fromrgb_ret (copy) 
+ReplicatedStorage.Components.Common.InterfaceAnimations.SetTabSelected :: highlight(p2); 
+ReplicatedStorage.Controllers.BuyStationController :: highlight = instance.new("highlight"); 
+ReplicatedStorage.Controllers.BuyStationController :: highlight"); 
+ReplicatedStorage.Controllers.BuyStationController :: highlight.name = "flash"; 
+ReplicatedStorage.Controllers.BuyStationController :: highlight.depthmode = enum.highlightdepthmode.occluded; 
+ReplicatedStorage.Controllers.BuyStationController :: highlightdepthmode.occluded; 
+ReplicatedStorage.Controllers.BuyStationController :: highlight.fillcolor = color3_new_ret; 
+-- total 41
+
+
+== billboard ==
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboardgui = instance.new("billboardgui"); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboardgui"); 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboardgui.name = "endwaypointbillboard"; 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboard"; 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboardgui.size = udim2_new_ret; 
+Players.jypit7e706.PlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay :: billboardgui.lightinfluence = 0; 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui = instance.new("billboardgui"); 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui"); 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui.alwaysontop = true; 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui.lightinfluence = 0; 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui.maxdistance = 250; 
+ReplicatedStorage.Controllers.HordeController.DamageNumbers :: billboardgui.resetonspawn = false; 
+ReplicatedStorage.Classes.Ragdoll :: billboardgui")) or (p34:isa("surfacegui") or p34:isa("highlight") or (p34:isa("proximityprompt") or p34:isa("clickdetector"))))); 
+ReplicatedStorage.Classes.Ragdoll :: billboardgui") or (descendant:isa("surfacegui") or descendant:isa("highlight"))) then 
+ReplicatedStorage.Classes.Spectate :: billboardgui") then 
+ReplicatedStorage.Classes.Spectate :: billboardgui") then 
+ReplicatedStorage.Components.Common.VFXLibary.CreateVoxelSmoke :: billboardgui") then 
+ReplicatedStorage.Controllers.BuyStationController :: billboardgui") and p33.name == "billboardgui" then 
+ReplicatedStorage.Controllers.BuyStationController :: billboardgui" then 
+-- total 19
+
